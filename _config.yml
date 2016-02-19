@@ -1,28 +1,40 @@
-name: GodinHD
-favicon: null
-layout_spectrum: 0.6701622263062745
-typography_spectrum: 0.78573
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.1038675082381815
+  brandStrength: 0.372046074597165
+  rhythmicContrast: 0.09518775600008667
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.372046074597165
   lightness: 0.506495269248262
-  saturation: 0.10386750823818147
-  rhythmicContrast: 0.09518775600008667
-purpose: []
+typography_spectrum: 0.374552
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.9408602
+favicon: null
+name: GodinHD
