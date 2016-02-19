@@ -1,0 +1,28 @@
+name: godinhd
+favicon: null
+layout_spectrum: 0.6701622263062745
+typography_spectrum: 0.8009259977843612
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.372046074597165
+  lightness: 0.506495269248262
+  saturation: 0.10386750823818147
+  rhythmicContrast: 0.09518775600008667
+purpose: []
