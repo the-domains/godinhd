@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[godinhd]]></title>
-        <description><![CDATA[godinhd]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[GodinHD]]></title>
+        <description><![CDATA[GodinHD]]></description>
+        <link>https://thegrid.ai/godinhd/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 03:29:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 20:40:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/godinhd/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/826d222c-7ae1-4e0f-b4d3-289bb7446b91.jpg">]]></description>
-            <link>undefinedcc8feab5-1a13-45f8-9c0a-0afcc22f824b/index.html</link>
+            <title><![CDATA[Of Mangers and Swaddling Cloth]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a395fe4a0662b5e78d94b4831e36a6a0c63dec80.jpg">]]></description>
+            <link>https://thegrid.ai/godinhd/cc8feab5-1a13-45f8-9c0a-0afcc22f824b/index.html</link>
             <guid isPermaLink="false">cc8feab5-1a13-45f8-9c0a-0afcc22f824b</guid>
-            <pubDate>Fri, 19 Feb 2016 03:28:38 GMT</pubDate>
+            <pubDate>Wed, 03 Aug 2016 20:39:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
